@@ -1,3 +1,4 @@
+> “The true subject of this project is humanity.”
 # Living With Human
 
 ### A Human–AI Dialogue During the Early Age of Artificial Intelligence
